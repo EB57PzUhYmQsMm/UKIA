@@ -1,8 +1,0 @@
-[send to archive] ->
-get_setting("archive_server") ->
-post(server, archive, file) ->
-server_quarantine(file) ->
-_|sort by extension
-server_scan(q_file) ->
-|_if bad send to .malicious_level (send to separate partion or drive?)
-_|sort by extension
